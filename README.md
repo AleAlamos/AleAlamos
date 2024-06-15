@@ -5,8 +5,10 @@
 
 ## Acerca de mí 👀
 
-Hola, soy Ale Álamos, tengo 31 años y soy una persona alegre que disfruta de la vida. Tengo una gran pasión por la naturaleza y la cocina . Adoro a mi gata Sammy 🐱, y me encanta explorar nuevos lugares. 
-Siempre estoy buscando nuevas experiencias y conocimientos.
+Hola, soy Ale Álamos, tengo 31 años y soy una persona alegre que disfruta de la vida.
+Tengo un profundo interés por la naturaleza y la cocina.
+Parte importante también de mi vida es mi gata Sammy 🐱 y mi gran amor por los animales.
+Siempre estoy buscando nuevas experiencias y conocimientos
 
 ## Habilidades y Tecnologías 🚀
 
