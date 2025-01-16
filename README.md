@@ -1,6 +1,6 @@
 # ¡Hola, soy @AleÁlamos! 👋
-
-- 📚 En proceso de aprendizaje (FullStack JS)
+- Desarrolladora Junior
+- 📚 Siempre aprendiendo cosas nuevas
 - 🎓 De profesión Analista Programador (2022-2023) y Traductora Inglés-Español (2011-2014)
 
 ## Acerca de mí 👀
