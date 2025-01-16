@@ -14,11 +14,11 @@ Siempre estoy buscando nuevas experiencias y conocimientos
 
 Estoy en proceso de aprendizaje y constantemente mejorando mis habilidades en las siguientes áreas:
 
-- **Lenguajes de Programación:** JavaScript, Python, HTML, CSS, SQL 💻
-- **Frameworks y Librerías:** Bootstrap, Spring 📚
+- **Lenguajes de Programación:** Java, JavaScript, Python, HTML, CSS, SQL 💻
+- **Frameworks y Librerías:** Bootstrap, Spring, Quarkus 📚
 - **Bases de Datos:** MySQL, MongoDB 🗄️
-- **Herramientas:** Git, GitHub, VSCode 🛠️
-- **Otros:** Inglés 🇬🇧, Trabajo colaborativo 🤝
+- **Herramientas:** Git, GitHub, VSCode, IntellIj Idea, Postman 🛠️
+- **Otros:** Inglés, Trabajo colaborativo 🤝
 
 ## 📫 Cómo contactarme
 
